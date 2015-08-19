@@ -12,7 +12,7 @@ The second column identifies the activity by one of 6 factors.
 
 * activity: 6 factors: LAYING, SITTING; STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
-The following 66 columns contain the mean as a numeric value from each parameter:
+The following 66 columns contain the mean as a numeric value normalised between -1 and 1 from each parameter:
 
 * timebodyaccelerometer mean x
 * timebodyaccelerometer mean y
@@ -89,7 +89,7 @@ Version 1.0
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
